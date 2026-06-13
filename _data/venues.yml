@@ -1,9 +1,18 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"ICRA":
+  url: https://www.ieee-ras.org/conferences/multi-conferences/icra
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
 
-"Vision":
+"AIAA SCITECH":
+  url: https://www.aiaa.org/SciTech
+  color: "#00688b"
+
+"NASA NRA":
+  color: "#0b3d91"
+
+"FORTEI-ICEE":
+  url: https://fortei.org/
   color: "#009f36"
