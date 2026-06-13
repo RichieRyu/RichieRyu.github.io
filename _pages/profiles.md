@@ -3,7 +3,7 @@ layout: profiles
 permalink: /people/
 title: people
 description: members of the lab or group
-nav: true
+nav: false
 nav_order: 7
 
 profiles:
@@ -13,6 +13,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>NAIL Lab, University of Houston</p>
-      <p>University of Houston at Sugar Land</p>
-      <p>Sugar Land, TX</p>
+      <p>122 ENGR4 (SAB2)</p>
+      <p>14000 University Blvd</p>
+      <p>Sugar Land, TX 77479</p>
 ---

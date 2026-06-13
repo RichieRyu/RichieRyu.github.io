@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: repositories
 description: GitHub profile and repositories of Richie R. Suganda.
-nav: true
+nav: false
 nav_order: 4
 ---
 

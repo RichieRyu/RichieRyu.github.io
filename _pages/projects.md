@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: Research projects in robotics, multi-agent systems, and autonomous systems.
+description: A collection of academic, research, and engineering projects.
 nav: true
 nav_order: 3
 display_categories: [work, fun]

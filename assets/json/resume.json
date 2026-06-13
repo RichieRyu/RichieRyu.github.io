@@ -3,12 +3,13 @@
     "name": "Richie Ryulie Suganda",
     "label": "Robotics Researcher",
     "image": "",
-    "email": "richie.ryulie@gmail.com",
+    "email": "rrsugand@cougarnet.uh.edu",
     "summary": "Robotics researcher at NAIL Lab, University of Houston. My work focuses on building safe and intelligent autonomous systems, with interests spanning robotics, multi-agent coordination, perception, and embedded AI.",
     "location": {
-      "address": "University of Houston at Sugar Land",
+      "address": "122 ENGR4 (SAB2), 14000 University Blvd",
       "city": "Sugar Land",
       "region": "Texas",
+      "postalCode": "77479",
       "countryCode": "US"
     },
     "profiles": [

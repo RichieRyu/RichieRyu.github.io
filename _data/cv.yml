@@ -1,7 +1,7 @@
 cv:
   name: Richie Ryulie Suganda
   label: Robotics Researcher
-  email: richie.ryulie@gmail.com
+  email: rrsugand@cougarnet.uh.edu
   location: Sugar Land, TX
   image: ""
   summary: >
@@ -19,10 +19,10 @@ cv:
       username: _Af9568AAAAAJ
 
   address:
-    street: University of Houston at Sugar Land
+    street: 122 ENGR4 (SAB2), 14000 University Blvd
     city: Sugar Land
     region: Texas
-    postalCode:
+    postalCode: 77479
     countryCode: US
 
   sections:

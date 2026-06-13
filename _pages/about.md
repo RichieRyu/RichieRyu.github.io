@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.uh.edu/'>University of Houston</a> — NAIL Lab. Sugar Land, TX.
 
@@ -10,8 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>NAIL Lab, University of Houston</p>
-    <p>University of Houston at Sugar Land</p>
-    <p>Sugar Land, TX</p>
+    <p>122 ENGR4 (SAB2)</p>
+    <p>14000 University Blvd</p>
+    <p>Sugar Land, TX 77479</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
