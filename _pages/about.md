@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-nav: true
 nav_order: 1
 subtitle: Research Assistant · <a href='https://binhu85.github.io/team-members/'>NAIL Lab</a> · University of Houston
 

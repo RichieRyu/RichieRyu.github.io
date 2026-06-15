@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A collection of academic, research, and engineering projects.
+description:
 nav: true
 nav_order: 4
 display_categories: [Research, Personal]
