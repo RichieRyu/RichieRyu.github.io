@@ -9,12 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "Blog",
+  },{id: "nav-about",
+          title: "About",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/";
+          },
+        },{id: "nav-news",
+          title: "News",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
           },
         },{id: "nav-publications",
           title: "Publications",
@@ -30,7 +37,28 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{
+        },{id: "news-modeling-and-output-feedback-control-design-of-a-corexy-system-with-tua-a-tamba-presented-at-ieee-fortei-icee-2024",
+          title: '📄 Modeling and Output Feedback Control Design of a CoreXY System with Tua...',
+          description: "",
+          section: "News",},{id: "news-distributed-perception-aware-safe-leader-follower-system-via-control-barrier-methods-with-tony-tran-miao-pan-lei-fan-qin-lin-and-bin-hu-presented-at-ieee-icra-2025",
+          title: '🤖 Distributed Perception Aware Safe Leader Follower System via Control Barrier Methods with...',
+          description: "",
+          section: "News",},{id: "news-a-high-fidelity-3d-simulation-environment-for-multi-aircraft-operations-with-timothy-bautista-fengyu-wang-and-colleagues-accepted-at-aiaa-scitech-2026",
+          title: '📄 A High-Fidelity 3D Simulation Environment for Multi-Aircraft Operations with Timothy Bautista, Fengyu...',
+          description: "",
+          section: "News",},{id: "news-️-a-human-interactive-auto-planner-for-scalable-m-n-operation-simulation-with-bin-hu-presented-at-nasa-nra-year-2-rice-university-university-of-houston-amp-amp-baylor-university",
+          title: '🛩️ A Human-Interactive Auto Planner for Scalable m:N Operation Simulation with Bin Hu...',
+          description: "",
+          section: "News",},{id: "news-new-preprint-formation-aware-adaptive-conformalized-perception-for-safe-leader-follower-multi-robot-systems-with-bin-hu-is-now-on-arxiv",
+          title: '📄 New preprint: Formation-Aware Adaptive Conformalized Perception for Safe Leader-Follower Multi-Robot Systems with...',
+          description: "",
+          section: "News",},{id: "news-new-preprint-xiyolo-energy-aware-object-detection-via-iterative-architecture-search-and-scaling-with-tony-tran-and-bin-hu-is-now-on-arxiv",
+          title: '📄 New preprint: XiYOLO: Energy-Aware Object Detection via Iterative Architecture Search and Scaling...',
+          description: "",
+          section: "News",},{id: "news-new-preprint-distributed-3d-leader-follower-formation-control-with-field-of-view-safety-via-control-barrier-functions-with-immanuel-r-santjoko-miao-pan-and-bin-hu-is-now-on-arxiv",
+          title: '📄 New preprint: Distributed 3D Leader-Follower Formation Control with Field-of-View Safety via Control...',
+          description: "",
+          section: "News",},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
