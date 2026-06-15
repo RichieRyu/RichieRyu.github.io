@@ -4,8 +4,8 @@ title: Projects
 permalink: /projects/
 description: A collection of academic, research, and engineering projects.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 4
+display_categories: [Research, Personal]
 horizontal: false
 ---
 

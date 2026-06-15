@@ -2,12 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.uh.edu/'>University of Houston</a> — NAIL Lab. Sugar Land, TX.
+nav: true
+nav_order: 1
+subtitle: Research Assistant · <a href='https://binhu85.github.io/team-members/'>NAIL Lab</a> · University of Houston
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>NAIL Lab, University of Houston</p>
     <p>122 ENGR4 (SAB2)</p>
@@ -18,9 +20,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 7
 
 latest_posts:
   enabled: false
@@ -28,8 +30,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Richie, though most people know me as Ryu. My work focuses on building safe and intelligent autonomous systems, with interests spanning robotics, multi-agent coordination, perception, and embedded AI.
+Richie R. Suganda is a robotics researcher at the University of Houston's **NAIL Lab** (Networked Autonomous & Intelligent Systems Laboratory) under [Dr. Bin Hu](https://binhu85.github.io/). He earned his Bachelor's degree in Electrical Engineering and is currently pursuing graduate studies in Electrical and Computer Engineering.
 
-I enjoy developing algorithms that bridge theory and real-world deployment, from safety-critical robot control and autonomous navigation to efficient machine learning for resource-constrained platforms. My goal is to create systems that are not only intelligent, but also reliable, scalable, and practical for real-world applications.
+His research focuses on **safe and intelligent autonomous systems**, with interests spanning **multi-robot coordination**, **control barrier functions**, **perception-aware planning**, and **embedded AI**. He bridges theory and real-world deployment, developing algorithms for safety-critical robot control, autonomous navigation, and efficient machine learning on resource-constrained platforms.
 
-I'm currently a researcher at the **NAIL Lab** (Networked Autonomous & Intelligent Systems Laboratory) at the **University of Houston**, where I work on multi-robot systems, control barrier functions, perception-aware planning, and human-interactive autonomous systems.
+He is passionate about building systems that are not only intelligent, but also reliable, scalable, and practical for real-world applications.
+
+📍 Cullen College of Engineering · University of Houston
