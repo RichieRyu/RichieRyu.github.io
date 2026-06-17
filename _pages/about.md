@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Richie R. Suganda is a robotics researcher at the University of Houston's **NAIL Lab** (Networked Autonomous & Intelligent Systems Laboratory) under [Dr. Bin Hu](https://binhu85.github.io/). He earned his Bachelor's degree in Electrical Engineering and is currently pursuing graduate studies in Electrical and Computer Engineering.
+Richie R. Suganda is a 3rd year PhD student in Electrical and Computer Engineering at the University of Houston, working in the **NAIL Lab** (Networked Autonomous & Intelligent Systems Laboratory) under [Dr. Bin Hu](https://binhu85.github.io/).
 
 His research focuses on **safe and intelligent autonomous systems**, with interests spanning **multi-robot coordination**, **control barrier functions**, **perception-aware planning**, and **embedded AI**. He bridges theory and real-world deployment, developing algorithms for safety-critical robot control, autonomous navigation, and efficient machine learning on resource-constrained platforms.
 
